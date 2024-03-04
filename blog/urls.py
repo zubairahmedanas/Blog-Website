@@ -7,4 +7,5 @@ from .views import *
 urlpatterns = [
     # path('admin/', admin.site.urls),
     path('', home, name='home'),
+    path('blogs/', blogs, name='blogs'),
 ]
