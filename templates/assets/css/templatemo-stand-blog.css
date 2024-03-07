@@ -405,7 +405,7 @@ header .navbar {
 	margin-bottom: 30px;
 }
 
-.blog-posts .blog-thumb img {
+.blog-posts .blog-thumb  img{
 	width: 100%;
 	overflow: hidden;
 }
